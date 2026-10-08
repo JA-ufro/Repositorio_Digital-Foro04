@@ -1,0 +1,14 @@
+contexto/
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+.env
+.idea/
+.vscode/
