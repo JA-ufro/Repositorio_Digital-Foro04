@@ -46,5 +46,3 @@ contra la aplicación real usando `TestClient`. No usa mocks ni pasos pendientes
 - `features/`: feature Gherkin, entorno y glue code Behave.
 - `tests/`: pruebas pytest de reglas y auditoría.
 - `docs/evidencias/bdd-cycle.md`: evidencia del ciclo rojo, verde y refactor.
-- `docs/GUIA_VIDEO.md`: guion para presentar el trabajo.
-- `contexto/`: material docente local, excluido por `.gitignore`.
